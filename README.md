@@ -1,4 +1,4 @@
-# Omnichannel Contact Centre Intelligence Platform
+# CUSTOMER_SUPPORT_INSIGHTS_PLATFORMgh 
 
 An end-to-end data science platform that unifies customer-service interactions
 across voice, chat, email, chatbot, and social channels. It uses NLP and machine
